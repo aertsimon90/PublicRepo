@@ -15,7 +15,7 @@ This repository serves two main purposes:
 
 You can add any code snippet, configuration file, or text document to this repository instantly using our simple web interface.
 
-### 🌐 Web Uploader (Live Demo)
+### 🌐 Web Uploader (Live)
 
 To upload a file, please visit the live application:
 
